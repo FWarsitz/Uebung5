@@ -18,14 +18,15 @@ public class H3_main {
 			
 			rest = rest% wert;
 		}
-		
+	
+		/*
 		System.out.println(input);
 		
 		
 		
         for (int i = 0; i < einheiten[0].length; i++) {
             System.out.println(einheiten[0][i] + " Cent   -> " + einheiten[1][i]);
-        }
+        }*/
         
 		
 	}
