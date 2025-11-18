@@ -19,13 +19,13 @@ public class H3_main {
 			rest = rest% wert;
 		}
 		
-		/*System.out.println(input);
+		System.out.println(input);
 		
 		
-		System.out.println("Wert:          Anzahl:");
+		
         for (int i = 0; i < einheiten[0].length; i++) {
-            System.out.printf("%6d Cent  ->  %d\n", einheiten[0][i], einheiten[1][i]);
-        }*/
+            System.out.println(einheiten[0][i] + " Cent   -> " + einheiten[1][i]);
+        }
         
 		
 	}

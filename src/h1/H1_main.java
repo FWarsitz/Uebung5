@@ -16,11 +16,11 @@ public class H1_main {
 		myArray = tempArray;
 		
 		
-	/*	for (int i = 0; i < myArray.length; i++) {
+		for (int i = 0; i < myArray.length; i++) {
 			
 			System.out.println(myArray[i]);
 			
-		} */
+		}
 
 	
 		
